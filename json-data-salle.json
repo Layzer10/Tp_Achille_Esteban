@@ -1,0 +1,22 @@
+[
+  {
+    "nom": "G25",
+    "capacité": 25,
+    "localisation": "Batiment A",
+    "disponible": "oui"
+  },
+
+  {
+    "nom": "G26",
+    "capacité": 25,
+    "localisation": "Batiment A",
+    "disponible": "oui"
+  },
+  {
+    "nom": "G21",
+    "capacité": 20,
+    "localisation": "Batiment B",
+    "disponible": "oui"
+  }
+
+]
