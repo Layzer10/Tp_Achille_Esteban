@@ -49,10 +49,9 @@ class GestionSalle {
         foreach($this->salles as $salle){
             if($salle->nom===$nomsalle){
                 return true;
-            } else {
-                return false;
             }
         }
+        return false;
     }
 
     // Afficher toutes les salles
